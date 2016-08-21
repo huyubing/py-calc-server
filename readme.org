@@ -1,4 +1,6 @@
 #+TITLE: py-calc-server学习Python
 
 ** 完成一个简单的服务器软件
++ 还没有写呢，写学习下Python语法，2016.8.21
+
 ** 需要用到SQLite？
