@@ -37,3 +37,14 @@ for i in range(10):
     else:
         print 'break'
         break
+
+
+a = int(raw_input("input a:"))
+b = int(raw_input("input b:"))
+
+
+print a + b
+print a * b
+print a % b
+print a / b
+print a % b
