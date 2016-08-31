@@ -1,0 +1,10 @@
+#+TITLE: Django Web
+
+
+* install python and pip
+
+* install django
+
++ sudo pip install Django
++ test Django version, use Python -m django --version
+
