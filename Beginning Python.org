@@ -1,0 +1,12 @@
+#+TITLE: Beginning Python 学习笔记
+#+AUTHOR: pierre-hu,damin-8765@tom.com
+
+* 列表与元组
++ 列表 x = [2, 3, "test"]
++ 元组 y = (1, 2, 4, "test")  
++ 元组不可变，但可以len count , index等
+
+* dict在html中使用非常方便
+
++ "test %(name)" % my_dict  会找出my_dict中ＫＥＹ为name的值
++ {}.fromkeys(["name", "age"], "unkown")

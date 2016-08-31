@@ -49,3 +49,28 @@ print a % b
 print a / b
 print a % b
 
+
+# define function
+# document function
+
+def add(a, b):
+    '''my function name: add(a, b)
+use test 
+new test2 doc'''
+    if True :
+        print a + b
+    else:
+        print a - b
+    print ''' test  add(a, b) '''
+
+
+print add(2, 3)
+
+# use .__doc__
+print add.__doc__
+
+
+print '''test help(add)'''
+
+# use help function
+help(add)
