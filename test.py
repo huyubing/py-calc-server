@@ -1,5 +1,12 @@
 #!/usr/bin/python
 
+
+for line in open("test.txt"):
+    if "main" in line:
+        print line.rstrip()
+
+print "end open text.txt"
+
 # use print
 print 'test python!'
 

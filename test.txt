@@ -1,0 +1,18 @@
+# test
+int main
+test
+testgo
+
+int Main
+goto test
+
+int main line2
+
+
+int main line 3
+
+test
+
+-----
+
+test mainN line
